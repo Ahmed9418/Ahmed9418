@@ -52,16 +52,16 @@ I’m an AI Software Engineer driven by the challenge of taking Ai models out of
 
 ---
 
-<div align="center">
+<div>
 
 ###  Certifications
 
-**HCIP-AI Certification**
-**HCIA-AI Certification**
+*  **HCIP-AI Certification**
+*  **HCIA-AI Certification**
 
 <br/>
 
-### 📫 Let's Connect
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/ahmed-hassan-18b22a284">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
